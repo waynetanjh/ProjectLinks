@@ -1,5 +1,5 @@
 # ProjectLinks
-This is a compilation of youtube videos of the projects I have done for CS50
+This is a compilation of websites that i have built with youtube videos of the projects I have done for CS50 Web (Course)
 
 See Description of youtube Videos for additional details 
 1. Google Search and I'm Feeling Lucky Website: https://youtu.be/rOXN1rpNyR4
