@@ -1,5 +1,5 @@
 # ProjectLinks
-This is a compilation of youtube videos of the projects I have done
+This is a compilation of youtube videos of the projects I have done for CS50
 
 See Description of youtube Videos for additional details 
 1. Google Search and I'm Feeling Lucky Website: https://youtu.be/rOXN1rpNyR4
@@ -12,4 +12,5 @@ See Description of youtube Videos for additional details
 
 5. Social networking website: https://youtu.be/at_jNAMu1PQ (Django, HTML, CSS, JavaScript)
 
+To learn Ruby on Rails and React
 6. Web Forum: https://youtu.be/_Evdeh8v5Zg (Ruby on rails, react)
