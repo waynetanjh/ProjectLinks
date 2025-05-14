@@ -1,4 +1,4 @@
-# ProjectLinks
+# Project Links
 This is a compilation of websites that i have built with youtube videos of the projects I have done for CS50 Web (Course)
 
 See Description of youtube Videos for additional details 
